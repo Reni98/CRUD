@@ -1,0 +1,4 @@
+npm init -y
+npm i express mysql
+
+Inditás: node index.js
